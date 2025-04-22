@@ -1,7 +1,7 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     margin: 20px;
-    background-image: url('/fundo\ 3.jpg'); 
+    background-image: url("/fundo_branco.jpg"); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
